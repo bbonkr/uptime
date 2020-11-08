@@ -1,50 +1,74 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
-    "status": "down",
+    "name": "bbon.kr",
+    "url": "https://bbon.kr",
+    "slug": "bbon-kr",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 2288
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
-    "status": "down",
+    "name": "bbon.me",
+    "url": "https://bbon.me",
+    "slug": "bbon-me",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 53
   },
   {
-    "name": "Internet Archive",
-    "url": "https://archive.org",
-    "slug": "internet-archive",
-    "status": "down",
+    "name": "resume.bbon.me",
+    "url": "https://resume.bbon.me",
+    "slug": "resume-bbon-me",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 203
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "down",
+    "name": "wiki.bbon.kr",
+    "url": "https://wiki.bbon.kr",
+    "slug": "wiki-bbon-kr",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 1949
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
+    "name": "wiki.bbon.me",
+    "url": "https://wiki.bbon.me",
+    "slug": "wiki-bbon-me",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 1323
   },
   {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "down",
+    "name": "dev.bbon.kr",
+    "url": "https://dev.bbon.kr",
+    "slug": "dev-bbon-kr",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 514
+  },
+  {
+    "name": "flexbox.bbon.me",
+    "url": "https://flexbox.bbon.me",
+    "slug": "flexbox-bbon-me",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 93
+  },
+  {
+    "name": "guid.bbon.me",
+    "url": "https://guid.bbon.me",
+    "slug": "guid-bbon-me",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 226
+  },
+  {
+    "name": "json-formatter.bbon.me",
+    "url": "https://json-formatter.bbon.me/",
+    "slug": "json-formatter-bbon-me",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 235
   }
 ]
