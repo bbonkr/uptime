@@ -1,25 +1,32 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: bbonkr # Your GitHub username
 repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Internet Archive
-    url: https://archive.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: bbon.kr
+    url: https://bbon.kr
+  - name: bbon.me
+    url: https://bbon.me
+  - name: resume.bbon.me
+    url: https://resume.bbon.me
+  - name: wiki.bbon.kr
+    url: https://wiki.bbon.kr
+  - name: wiki.bbon.me
+    url: https://wiki.bbon.me
+  - name: dev.bbon.kr
+    url: https://dev.bbon.kr
+  - name: flexbox.bbon.me
+    url: https://flexbox.bbon.me
+  - name: guid.bbon.me
+    url: https://guid.bbon.me
+  - name: json-formatter.bbon.me
+    url: https://json-formatter.bbon.me/
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: uptime.bbon.me
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
