@@ -1,7 +1,7 @@
 - url: https://flexbox.bbon.me
-- status: up
+- status: down
 - code: 200
-- responseTime: 176
-- lastUpdated: 2020-11-18T23:05:31.198Z
+- responseTime: 74
+- lastUpdated: 2020-11-19T06:50:36.076Z
 - startTime: 2020-11-08T04:58:10.432Z
 - generator: Upptime <https://github.com/upptime/upptime>
