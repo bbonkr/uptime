@@ -1,7 +1,7 @@
 - url: https://guid.bbon.me
-- status: down
+- status: up
 - code: 200
-- responseTime: 161
-- lastUpdated: 2020-11-19T06:50:37.620Z
+- responseTime: 79
+- lastUpdated: 2020-11-19T06:58:40.157Z
 - startTime: 2020-11-08T04:58:11.192Z
 - generator: Upptime <https://github.com/upptime/upptime>
