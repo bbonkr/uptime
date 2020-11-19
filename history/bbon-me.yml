@@ -1,7 +1,7 @@
 - url: https://bbon.me
-- status: up
+- status: down
 - code: 200
-- responseTime: 54
-- lastUpdated: 2020-11-18T23:05:25.382Z
+- responseTime: 132
+- lastUpdated: 2020-11-19T06:50:22.302Z
 - startTime: 2020-11-08T04:58:02.967Z
 - generator: Upptime <https://github.com/upptime/upptime>
