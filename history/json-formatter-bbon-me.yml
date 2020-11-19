@@ -1,7 +1,7 @@
 - url: https://json-formatter.bbon.me/
-- status: up
+- status: down
 - code: 200
-- responseTime: 443
-- lastUpdated: 2020-11-18T23:05:32.725Z
+- responseTime: 93
+- lastUpdated: 2020-11-19T06:50:39.074Z
 - startTime: 2020-11-08T04:58:12.076Z
 - generator: Upptime <https://github.com/upptime/upptime>
