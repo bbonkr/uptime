@@ -13,7 +13,7 @@
     "slug": "bbon-me",
     "status": "up",
     "uptime": "100.00",
-    "time": 107
+    "time": 105
   },
   {
     "name": "resume.bbon.me",
@@ -21,7 +21,7 @@
     "slug": "resume-bbon-me",
     "status": "up",
     "uptime": "100.00",
-    "time": 216
+    "time": 227
   },
   {
     "name": "wiki.bbon.kr",
@@ -29,7 +29,7 @@
     "slug": "wiki-bbon-kr",
     "status": "up",
     "uptime": "100.00",
-    "time": 1936
+    "time": 1929
   },
   {
     "name": "wiki.bbon.me",
@@ -37,7 +37,7 @@
     "slug": "wiki-bbon-me",
     "status": "up",
     "uptime": "100.00",
-    "time": 1231
+    "time": 1232
   },
   {
     "name": "dev.bbon.kr",
@@ -45,7 +45,7 @@
     "slug": "dev-bbon-kr",
     "status": "up",
     "uptime": "100.00",
-    "time": 449
+    "time": 445
   },
   {
     "name": "flexbox.bbon.me",
@@ -53,7 +53,7 @@
     "slug": "flexbox-bbon-me",
     "status": "up",
     "uptime": "100.00",
-    "time": 235
+    "time": 230
   },
   {
     "name": "guid.bbon.me",
@@ -61,7 +61,7 @@
     "slug": "guid-bbon-me",
     "status": "up",
     "uptime": "100.00",
-    "time": 213
+    "time": 209
   },
   {
     "name": "json-formatter.bbon.me",
@@ -69,6 +69,6 @@
     "slug": "json-formatter-bbon-me",
     "status": "up",
     "uptime": "100.00",
-    "time": 165
+    "time": 163
   }
 ]
