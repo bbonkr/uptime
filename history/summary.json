@@ -43,9 +43,9 @@
     "name": "dev.bbon.kr",
     "url": "https://dev.bbon.kr",
     "slug": "dev-bbon-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 380
+    "time": 377
   },
   {
     "name": "flexbox.bbon.me",
