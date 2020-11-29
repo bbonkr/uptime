@@ -3,9 +3,9 @@
     "name": "bbon.kr",
     "url": "https://bbon.kr",
     "slug": "bbon-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "time": 1560
+    "time": 1514
   },
   {
     "name": "bbon.me",
@@ -27,9 +27,9 @@
     "name": "wiki.bbon.kr",
     "url": "https://wiki.bbon.kr",
     "slug": "wiki-bbon-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "98.82%",
-    "time": 1819
+    "time": 1763
   },
   {
     "name": "wiki.bbon.me",
