@@ -1,7 +1,7 @@
 url: https://wiki.bbon.me
-status: up
-code: 200
-responseTime: 3380
-lastUpdated: 2021-03-12T06:27:58.891Z
+status: down
+code: 502
+responseTime: 886
+lastUpdated: 2021-03-12T08:32:17.850Z
 startTime: Sun Nov 08 2020 04:58:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
