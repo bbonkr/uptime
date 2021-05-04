@@ -135,19 +135,19 @@
     "url": "https://dev.bbon.kr",
     "icon": "https://favicons.githubusercontent.com/dev.bbon.kr",
     "slug": "dev-bbon-kr",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 547,
-    "timeDay": 11329,
-    "timeWeek": 3202,
-    "timeMonth": 1097,
-    "timeYear": 547,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 546,
+    "timeDay": 7653,
+    "timeWeek": 2880,
+    "timeMonth": 1073,
+    "timeYear": 546,
     "dailyMinutesDown": {
-      "2021-05-04": 0
+      "2021-05-04": 14
     }
   },
   {
