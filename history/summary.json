@@ -42,18 +42,20 @@
     "url": "https://bbon.me",
     "icon": "https://favicons.githubusercontent.com/bbon.me",
     "slug": "bbon-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 117,
+    "timeDay": 120,
     "timeWeek": 120,
-    "timeMonth": 109,
+    "timeMonth": 110,
     "timeYear": 142,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "resume.bbon.me",
