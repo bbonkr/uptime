@@ -212,5 +212,23 @@
     "timeMonth": 279,
     "timeYear": 228,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "apps.bbon.me",
+    "url": "https://apps.bbon.me",
+    "icon": "https://favicons.githubusercontent.com/apps.bbon.me",
+    "slug": "apps-bbon-me",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
