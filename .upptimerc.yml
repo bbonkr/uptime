@@ -22,6 +22,8 @@ sites:
     url: https://guid.bbon.me
   - name: json-formatter.bbon.me
     url: https://json-formatter.bbon.me/
+  - name: apps.bbon.me
+    url: https://apps.bbon.me
 
 
 status-website:
