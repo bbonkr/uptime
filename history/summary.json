@@ -202,10 +202,10 @@
     "url": "https://json-formatter.bbon.me/",
     "icon": "https://favicons.githubusercontent.com/json-formatter.bbon.me",
     "slug": "json-formatter-bbon-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
@@ -213,16 +213,18 @@
     "timeWeek": 298,
     "timeMonth": 306,
     "timeYear": 236,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-12": 1
+    }
   },
   {
     "name": "apps.bbon.me",
     "url": "https://apps.bbon.me",
     "icon": "https://favicons.githubusercontent.com/apps.bbon.me",
     "slug": "apps-bbon-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -231,6 +233,8 @@
     "timeWeek": 221,
     "timeMonth": 260,
     "timeYear": 260,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-12": 0
+    }
   }
 ]
