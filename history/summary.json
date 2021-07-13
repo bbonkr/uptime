@@ -63,10 +63,10 @@
     "url": "https://resume.bbon.me",
     "icon": "https://favicons.githubusercontent.com/resume.bbon.me",
     "slug": "resume-bbon-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 346,
@@ -74,7 +74,9 @@
     "timeWeek": 411,
     "timeMonth": 282,
     "timeYear": 346,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-13": 2
+    }
   },
   {
     "name": "wiki.bbon.kr",
@@ -82,11 +84,11 @@
     "icon": "https://favicons.githubusercontent.com/wiki.bbon.kr",
     "slug": "wiki-bbon-kr",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.29%",
+    "uptimeYear": "99.30%",
     "time": 1765,
     "timeDay": 2271,
     "timeWeek": 2204,
@@ -148,10 +150,10 @@
     "url": "https://dev.bbon.kr",
     "icon": "https://favicons.githubusercontent.com/dev.bbon.kr",
     "slug": "dev-bbon-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 487,
@@ -159,17 +161,19 @@
     "timeWeek": 401,
     "timeMonth": 396,
     "timeYear": 487,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-13": 1
+    }
   },
   {
     "name": "flexbox.bbon.me",
     "url": "https://flexbox.bbon.me",
     "icon": "https://favicons.githubusercontent.com/flexbox.bbon.me",
     "slug": "flexbox-bbon-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 225,
@@ -177,16 +181,18 @@
     "timeWeek": 228,
     "timeMonth": 260,
     "timeYear": 225,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-13": 1
+    }
   },
   {
     "name": "guid.bbon.me",
     "url": "https://guid.bbon.me",
     "icon": "https://favicons.githubusercontent.com/guid.bbon.me",
     "slug": "guid-bbon-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -195,7 +201,9 @@
     "timeWeek": 199,
     "timeMonth": 369,
     "timeYear": 286,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-13": 0
+    }
   },
   {
     "name": "json-formatter.bbon.me",
