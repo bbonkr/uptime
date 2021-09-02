@@ -173,10 +173,10 @@
     "url": "https://flexbox.bbon.me",
     "icon": "https://favicons.githubusercontent.com/flexbox.bbon.me",
     "slug": "flexbox-bbon-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
@@ -185,6 +185,7 @@
     "timeMonth": 191,
     "timeYear": 223,
     "dailyMinutesDown": {
+      "2021-09-02": 1,
       "2021-07-13": 19
     }
   },
@@ -213,9 +214,9 @@
     "url": "https://json-formatter.bbon.me/",
     "icon": "https://favicons.githubusercontent.com/json-formatter.bbon.me",
     "slug": "json-formatter-bbon-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -224,7 +225,9 @@
     "timeWeek": 152,
     "timeMonth": 193,
     "timeYear": 233,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-02": 0
+    }
   },
   {
     "name": "apps.bbon.me",
