@@ -1,7 +1,7 @@
 url: https://wiki.bbon.kr
-status: up
-code: 200
-responseTime: 815
-lastUpdated: 2022-01-04T15:17:08.008Z
+status: down
+code: 500
+responseTime: 819
+lastUpdated: 2022-01-04T15:50:56.927Z
 startTime: Sun Nov 08 2020 04:58:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
