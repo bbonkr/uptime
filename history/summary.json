@@ -28,19 +28,19 @@
     "url": "https://bbon.me",
     "icon": "https://favicons.githubusercontent.com/bbon.me",
     "slug": "bbon-me",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 114,
-    "timeDay": 122,
-    "timeWeek": 144,
-    "timeMonth": 127,
+    "timeDay": 104,
+    "timeWeek": 137,
+    "timeMonth": 125,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2022-09-15": 0
+      "2022-09-15": 18
     }
   },
   {
