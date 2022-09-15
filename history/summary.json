@@ -28,9 +28,9 @@
     "url": "https://bbon.me",
     "icon": "https://favicons.githubusercontent.com/bbon.me",
     "slug": "bbon-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -39,7 +39,9 @@
     "timeWeek": 144,
     "timeMonth": 127,
     "timeYear": 112,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "resume.bbon.me",
