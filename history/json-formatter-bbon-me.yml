@@ -1,7 +1,7 @@
 url: https://json-formatter.bbon.me/
-status: up
-code: 200
-responseTime: 113
-lastUpdated: 2022-12-07T23:17:10.563Z
+status: down
+code: 500
+responseTime: 3156
+lastUpdated: 2022-12-08T05:50:31.163Z
 startTime: Sun Nov 08 2020 04:58:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
