@@ -25,18 +25,20 @@
     "url": "https://bbon.me",
     "icon": "https://icons.duckduckgo.com/ip3/bbon.me.ico",
     "slug": "bbon-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 129,
-    "timeDay": 315,
-    "timeWeek": 138,
+    "timeDay": 227,
+    "timeWeek": 139,
     "timeMonth": 134,
-    "timeYear": 131,
-    "dailyMinutesDown": {}
+    "timeYear": 132,
+    "dailyMinutesDown": {
+      "2023-10-03": 0
+    }
   },
   {
     "name": "resume.bbon.me",
