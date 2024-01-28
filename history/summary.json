@@ -125,18 +125,20 @@
     "url": "https://guid.bbon.me",
     "icon": "https://icons.duckduckgo.com/ip3/guid.bbon.me.ico",
     "slug": "guid-bbon-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 312,
-    "timeDay": 144,
-    "timeWeek": 169,
-    "timeMonth": 174,
+    "timeDay": 237,
+    "timeWeek": 189,
+    "timeMonth": 179,
     "timeYear": 265,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-28": 0
+    }
   },
   {
     "name": "json-formatter.bbon.me",
