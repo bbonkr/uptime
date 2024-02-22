@@ -85,9 +85,9 @@
     "url": "https://dev.bbon.kr",
     "icon": "https://icons.duckduckgo.com/ip3/dev.bbon.kr.ico",
     "slug": "dev-bbon-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -97,6 +97,7 @@
     "timeMonth": 263,
     "timeYear": 391,
     "dailyMinutesDown": {
+      "2024-02-22": 0,
       "2023-10-27": 18,
       "2023-09-13": 45,
       "2023-09-12": 4
@@ -107,9 +108,9 @@
     "url": "https://flexbox.bbon.me",
     "icon": "https://icons.duckduckgo.com/ip3/flexbox.bbon.me.ico",
     "slug": "flexbox-bbon-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -118,7 +119,9 @@
     "timeWeek": 170,
     "timeMonth": 158,
     "timeYear": 200,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-22": 0
+    }
   },
   {
     "name": "guid.bbon.me",
@@ -143,9 +146,9 @@
     "url": "https://json-formatter.bbon.me/",
     "icon": "https://icons.duckduckgo.com/ip3/json-formatter.bbon.me.ico",
     "slug": "json-formatter-bbon-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -154,7 +157,9 @@
     "timeWeek": 230,
     "timeMonth": 181,
     "timeYear": 193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-22": 0
+    }
   },
   {
     "name": "apps.bbon.me",
@@ -162,7 +167,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/apps.bbon.me.ico",
     "slug": "apps-bbon-me",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
