@@ -6,9 +6,9 @@
     "slug": "bbon-kr",
     "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 3009,
     "timeDay": 2814,
@@ -16,7 +16,7 @@
     "timeMonth": 3161,
     "timeYear": 3060,
     "dailyMinutesDown": {
-      "2024-03-14": 0,
+      "2024-03-14": 11,
       "2023-10-12": 15
     }
   },
@@ -65,18 +65,19 @@
     "url": "https://wiki.bbon.kr",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.bbon.kr.ico",
     "slug": "wiki-bbon-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1595,
-    "timeDay": 1758,
-    "timeWeek": 1691,
-    "timeMonth": 1590,
-    "timeYear": 1602,
+    "time": 1592,
+    "timeDay": 1116,
+    "timeWeek": 1539,
+    "timeMonth": 1554,
+    "timeYear": 1599,
     "dailyMinutesDown": {
+      "2024-03-14": 0,
       "2023-05-25": 16
     }
   },
