@@ -86,10 +86,10 @@
     "url": "https://dev.bbon.kr",
     "icon": "https://icons.duckduckgo.com/ip3/dev.bbon.kr.ico",
     "slug": "dev-bbon-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 429,
@@ -98,6 +98,7 @@
     "timeMonth": 323,
     "timeYear": 385,
     "dailyMinutesDown": {
+      "2024-03-16": 1,
       "2023-10-27": 18,
       "2023-09-13": 45,
       "2023-09-12": 4
@@ -108,9 +109,9 @@
     "url": "https://flexbox.bbon.me",
     "icon": "https://icons.duckduckgo.com/ip3/flexbox.bbon.me.ico",
     "slug": "flexbox-bbon-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -119,16 +120,18 @@
     "timeWeek": 159,
     "timeMonth": 152,
     "timeYear": 197,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "guid.bbon.me",
     "url": "https://guid.bbon.me",
     "icon": "https://icons.duckduckgo.com/ip3/guid.bbon.me.ico",
     "slug": "guid-bbon-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -137,16 +140,18 @@
     "timeWeek": 153,
     "timeMonth": 205,
     "timeYear": 238,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "json-formatter.bbon.me",
     "url": "https://json-formatter.bbon.me/",
     "icon": "https://icons.duckduckgo.com/ip3/json-formatter.bbon.me.ico",
     "slug": "json-formatter-bbon-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -155,7 +160,9 @@
     "timeWeek": 143,
     "timeMonth": 178,
     "timeYear": 190,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "apps.bbon.me",
