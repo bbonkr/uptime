@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2811,
-    "timeDay": 1116,
-    "timeWeek": 1186,
-    "timeMonth": 1203,
-    "timeYear": 2781,
+    "time": 2808,
+    "timeDay": 1261,
+    "timeWeek": 1195,
+    "timeMonth": 1213,
+    "timeYear": 2776,
     "dailyMinutesDown": {
       "2024-03-14": 27,
       "2023-10-12": 15
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 143,
-    "timeDay": 239,
-    "timeWeek": 141,
-    "timeMonth": 168,
+    "timeDay": 221,
+    "timeWeek": 151,
+    "timeMonth": 166,
     "timeYear": 145,
     "dailyMinutesDown": {
       "2023-10-03": 20
@@ -52,13 +52,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 658,
-    "timeDay": 432,
-    "timeWeek": 218,
-    "timeMonth": 179,
-    "timeYear": 294,
-    "dailyMinutesDown": {
-      "2023-06-13": 106
-    }
+    "timeDay": 78,
+    "timeWeek": 199,
+    "timeMonth": 180,
+    "timeYear": 276,
+    "dailyMinutesDown": {}
   },
   {
     "name": "wiki.bbon.kr",
@@ -72,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1571,
-    "timeDay": 1249,
-    "timeWeek": 1373,
-    "timeMonth": 1457,
+    "timeDay": 1475,
+    "timeWeek": 1382,
+    "timeMonth": 1449,
     "timeYear": 1578,
     "dailyMinutesDown": {
       "2024-03-14": 16
@@ -91,10 +89,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 388,
-    "timeDay": 651,
-    "timeWeek": 307,
-    "timeMonth": 331,
+    "time": 387,
+    "timeDay": 261,
+    "timeWeek": 292,
+    "timeMonth": 332,
     "timeYear": 373,
     "dailyMinutesDown": {
       "2024-03-16": 16,
@@ -115,9 +113,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 199,
-    "timeDay": 201,
-    "timeWeek": 134,
-    "timeMonth": 152,
+    "timeDay": 126,
+    "timeWeek": 131,
+    "timeMonth": 153,
     "timeYear": 187,
     "dailyMinutesDown": {
       "2024-03-16": 15
@@ -135,10 +133,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 244,
-    "timeDay": 186,
-    "timeWeek": 196,
-    "timeMonth": 199,
-    "timeYear": 209,
+    "timeDay": 165,
+    "timeWeek": 188,
+    "timeMonth": 197,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2024-03-16": 15
     }
@@ -154,11 +152,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 192,
-    "timeDay": 170,
-    "timeWeek": 167,
-    "timeMonth": 180,
-    "timeYear": 182,
+    "time": 193,
+    "timeDay": 585,
+    "timeWeek": 230,
+    "timeMonth": 196,
+    "timeYear": 183,
     "dailyMinutesDown": {}
   },
   {
@@ -173,8 +171,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 192,
-    "timeDay": 194,
-    "timeWeek": 173,
+    "timeDay": 93,
+    "timeWeek": 119,
     "timeMonth": 169,
     "timeYear": 162,
     "dailyMinutesDown": {}
