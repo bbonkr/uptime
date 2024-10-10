@@ -142,18 +142,20 @@
     "url": "https://json-formatter.bbon.me/",
     "icon": "https://icons.duckduckgo.com/ip3/json-formatter.bbon.me.ico",
     "slug": "json-formatter-bbon-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 191,
-    "timeDay": 271,
-    "timeWeek": 246,
-    "timeMonth": 235,
+    "timeDay": 192,
+    "timeWeek": 230,
+    "timeMonth": 231,
     "timeYear": 190,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-10": 0
+    }
   },
   {
     "name": "apps.bbon.me",
