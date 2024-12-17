@@ -10,19 +10,14 @@ sites:
     url: https://bbon.me
   - name: resume.bbon.me
     url: https://resume.bbon.me
-  - name: wiki.bbon.kr
-    url: https://wiki.bbon.kr
   - name: dev.bbon.kr
     url: https://dev.bbon.kr
   - name: flexbox.bbon.me
     url: https://flexbox.bbon.me
-  - name: guid.bbon.me
-    url: https://guid.bbon.me
-  - name: json-formatter.bbon.me
-    url: https://json-formatter.bbon.me/
+  - name: blog.bbon.me
+    url: https://blog.bbon.me
   - name: apps.bbon.me
     url: https://apps.bbon.me
-
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -38,6 +33,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

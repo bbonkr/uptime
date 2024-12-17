@@ -56,26 +56,6 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "wiki.bbon.kr",
-    "url": "https://wiki.bbon.kr",
-    "icon": "https://icons.duckduckgo.com/ip3/wiki.bbon.kr.ico",
-    "slug": "wiki-bbon-kr",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1527,
-    "timeDay": 1447,
-    "timeWeek": 1564,
-    "timeMonth": 1553,
-    "timeYear": 1506,
-    "dailyMinutesDown": {
-      "2024-03-14": 16
-    }
-  },
-  {
     "name": "dev.bbon.kr",
     "url": "https://dev.bbon.kr",
     "icon": "https://icons.duckduckgo.com/ip3/dev.bbon.kr.ico",
@@ -117,45 +97,22 @@
     }
   },
   {
-    "name": "guid.bbon.me",
-    "url": "https://guid.bbon.me",
-    "icon": "https://icons.duckduckgo.com/ip3/guid.bbon.me.ico",
-    "slug": "guid-bbon-me",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
+    "name": "blog.bbon.me",
+    "url": "https://blog.bbon.me",
+    "icon": "https://icons.duckduckgo.com/ip3/blog.bbon.me.ico",
+    "slug": "blog-bbon-me",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 502,
-    "timeWeek": 296,
-    "timeMonth": 250,
-    "timeYear": 221,
-    "dailyMinutesDown": {
-      "2024-12-17": 0,
-      "2024-03-16": 15
-    }
-  },
-  {
-    "name": "json-formatter.bbon.me",
-    "url": "https://json-formatter.bbon.me/",
-    "icon": "https://icons.duckduckgo.com/ip3/json-formatter.bbon.me.ico",
-    "slug": "json-formatter-bbon-me",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 201,
-    "timeDay": 202,
-    "timeWeek": 191,
-    "timeMonth": 290,
-    "timeYear": 209,
-    "dailyMinutesDown": {
-      "2024-12-17": 0
-    }
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   },
   {
     "name": "apps.bbon.me",
