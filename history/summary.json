@@ -121,9 +121,9 @@
     "url": "https://guid.bbon.me",
     "icon": "https://icons.duckduckgo.com/ip3/guid.bbon.me.ico",
     "slug": "guid-bbon-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -133,6 +133,7 @@
     "timeMonth": 250,
     "timeYear": 221,
     "dailyMinutesDown": {
+      "2024-12-17": 0,
       "2024-03-16": 15
     }
   },
@@ -141,9 +142,9 @@
     "url": "https://json-formatter.bbon.me/",
     "icon": "https://icons.duckduckgo.com/ip3/json-formatter.bbon.me.ico",
     "slug": "json-formatter-bbon-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -152,7 +153,9 @@
     "timeWeek": 191,
     "timeMonth": 290,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-17": 0
+    }
   },
   {
     "name": "apps.bbon.me",
