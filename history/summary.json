@@ -101,18 +101,20 @@
     "url": "https://blog.bbon.me",
     "icon": "https://icons.duckduckgo.com/ip3/blog.bbon.me.ico",
     "slug": "blog-bbon-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 947,
-    "timeDay": 1020,
-    "timeWeek": 1003,
-    "timeMonth": 933,
-    "timeYear": 947,
-    "dailyMinutesDown": {}
+    "time": 1313,
+    "timeDay": 7766,
+    "timeWeek": 2692,
+    "timeMonth": 1358,
+    "timeYear": 1313,
+    "dailyMinutesDown": {
+      "2025-01-20": 0
+    }
   },
   {
     "name": "apps.bbon.me",
