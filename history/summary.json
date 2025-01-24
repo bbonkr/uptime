@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1924,
-    "timeDay": 965,
-    "timeWeek": 1173,
-    "timeMonth": 1194,
-    "timeYear": 1636,
+    "time": 1919,
+    "timeDay": 1251,
+    "timeWeek": 1172,
+    "timeMonth": 1191,
+    "timeYear": 1632,
     "dailyMinutesDown": {
       "2024-03-14": 27
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 160,
-    "timeDay": 263,
-    "timeWeek": 183,
-    "timeMonth": 168,
+    "timeDay": 122,
+    "timeWeek": 186,
+    "timeMonth": 164,
     "timeYear": 168,
     "dailyMinutesDown": {}
   },
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 404,
-    "timeWeek": 230,
+    "timeDay": 275,
+    "timeWeek": 237,
     "timeMonth": 185,
-    "timeYear": 230,
+    "timeYear": 231,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 359,
-    "timeDay": 198,
-    "timeWeek": 366,
-    "timeMonth": 339,
-    "timeYear": 360,
+    "time": 360,
+    "timeDay": 854,
+    "timeWeek": 378,
+    "timeMonth": 357,
+    "timeYear": 362,
     "dailyMinutesDown": {
       "2024-10-12": 17,
       "2024-03-16": 16
@@ -88,10 +88,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 221,
-    "timeWeek": 296,
-    "timeMonth": 237,
-    "timeYear": 226,
+    "timeDay": 263,
+    "timeWeek": 285,
+    "timeMonth": 239,
+    "timeYear": 227,
     "dailyMinutesDown": {
       "2024-03-16": 15
     }
@@ -102,16 +102,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.bbon.me.ico",
     "slug": "blog-bbon-me",
     "status": "up",
-    "uptime": "98.75%",
+    "uptime": "98.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.42%",
     "uptimeMonth": "98.49%",
-    "uptimeYear": "98.75%",
-    "time": 1648,
-    "timeDay": 778,
-    "timeWeek": 4152,
-    "timeMonth": 1805,
-    "timeYear": 1648,
+    "uptimeYear": "98.78%",
+    "time": 1631,
+    "timeDay": 919,
+    "timeWeek": 4138,
+    "timeMonth": 1803,
+    "timeYear": 1631,
     "dailyMinutesDown": {
       "2025-01-21": 137,
       "2025-01-20": 526
@@ -129,9 +129,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 180,
-    "timeDay": 256,
-    "timeWeek": 407,
-    "timeMonth": 253,
+    "timeDay": 158,
+    "timeWeek": 408,
+    "timeMonth": 249,
     "timeYear": 194,
     "dailyMinutesDown": {}
   }
