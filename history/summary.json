@@ -6,7 +6,7 @@
     "slug": "bbon-kr",
     "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "25.92%",
+    "uptimeDay": "30.92%",
     "uptimeWeek": "43.19%",
     "uptimeMonth": "67.94%",
     "uptimeYear": "97.14%",
@@ -90,9 +90,9 @@
     "url": "https://dev.bbon.kr",
     "icon": "https://icons.duckduckgo.com/ip3/dev.bbon.kr.ico",
     "slug": "dev-bbon-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -102,6 +102,7 @@
     "timeMonth": 492,
     "timeYear": 390,
     "dailyMinutesDown": {
+      "2025-05-07": 0,
       "2024-10-12": 17
     }
   },
@@ -110,9 +111,9 @@
     "url": "https://flexbox.bbon.me",
     "icon": "https://icons.duckduckgo.com/ip3/flexbox.bbon.me.ico",
     "slug": "flexbox-bbon-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -121,7 +122,9 @@
     "timeWeek": 329,
     "timeMonth": 310,
     "timeYear": 259,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   },
   {
     "name": "blog.bbon.me",
@@ -129,11 +132,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.bbon.me.ico",
     "slug": "blog-bbon-me",
     "status": "up",
-    "uptime": "96.79%",
-    "uptimeDay": "26.56%",
+    "uptime": "96.80%",
+    "uptimeDay": "31.57%",
     "uptimeWeek": "43.11%",
     "uptimeMonth": "86.91%",
-    "uptimeYear": "96.79%",
+    "uptimeYear": "96.80%",
     "time": 1891,
     "timeDay": 5861,
     "timeWeek": 7596,
@@ -159,9 +162,9 @@
     "url": "https://apps.bbon.me",
     "icon": "https://icons.duckduckgo.com/ip3/apps.bbon.me.ico",
     "slug": "apps-bbon-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -170,6 +173,8 @@
     "timeWeek": 325,
     "timeMonth": 331,
     "timeYear": 227,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   }
 ]
