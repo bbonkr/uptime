@@ -13,7 +13,7 @@
     "time": 2302,
     "timeDay": 2999,
     "timeWeek": 3429,
-    "timeMonth": 3898,
+    "timeMonth": 3422,
     "timeYear": 2423,
     "dailyMinutesDown": {
       "2025-06-29": 25,
@@ -92,9 +92,9 @@
     "url": "https://dev.bbon.kr",
     "icon": "https://icons.duckduckgo.com/ip3/dev.bbon.kr.ico",
     "slug": "dev-bbon-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -104,6 +104,7 @@
     "timeMonth": 531,
     "timeYear": 426,
     "dailyMinutesDown": {
+      "2025-07-24": 0,
       "2025-05-27": 23,
       "2025-05-07": 17,
       "2024-10-12": 17
@@ -114,18 +115,19 @@
     "url": "https://flexbox.bbon.me",
     "icon": "https://icons.duckduckgo.com/ip3/flexbox.bbon.me.ico",
     "slug": "flexbox-bbon-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 251,
+    "time": 250,
     "timeDay": 304,
     "timeWeek": 308,
     "timeMonth": 277,
     "timeYear": 272,
     "dailyMinutesDown": {
+      "2025-07-24": 0,
       "2025-05-07": 17
     }
   },
@@ -168,9 +170,9 @@
     "url": "https://apps.bbon.me",
     "icon": "https://icons.duckduckgo.com/ip3/apps.bbon.me.ico",
     "slug": "apps-bbon-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -180,6 +182,7 @@
     "timeMonth": 270,
     "timeYear": 242,
     "dailyMinutesDown": {
+      "2025-07-24": 0,
       "2025-05-07": 17
     }
   }
