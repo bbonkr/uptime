@@ -4,9 +4,9 @@
     "url": "https://bbon.kr",
     "icon": "https://icons.duckduckgo.com/ip3/bbon.kr.ico",
     "slug": "bbon-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "97.12%",
@@ -16,6 +16,7 @@
     "timeMonth": 3413,
     "timeYear": 2474,
     "dailyMinutesDown": {
+      "2025-08-03": 0,
       "2025-07-25": 22,
       "2025-06-29": 25,
       "2025-05-18": 40,
@@ -75,9 +76,9 @@
     "url": "https://resume.bbon.me",
     "icon": "https://icons.duckduckgo.com/ip3/resume.bbon.me.ico",
     "slug": "resume-bbon-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -86,7 +87,9 @@
     "timeWeek": 308,
     "timeMonth": 392,
     "timeYear": 314,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-03": 0
+    }
   },
   {
     "name": "dev.bbon.kr",
@@ -138,11 +141,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.bbon.me.ico",
     "slug": "blog-bbon-me",
     "status": "up",
-    "uptime": "97.99%",
+    "uptime": "98.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "97.99%",
+    "uptimeYear": "98.00%",
     "time": 1644,
     "timeDay": 971,
     "timeWeek": 948,
