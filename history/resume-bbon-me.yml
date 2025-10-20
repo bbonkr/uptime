@@ -1,7 +1,7 @@
 url: https://resume.bbon.me
-status: up
-code: 200
-responseTime: 211
-lastUpdated: 2025-10-19T23:18:35.260Z
+status: down
+code: 500
+responseTime: 169
+lastUpdated: 2025-10-20T07:54:02.557Z
 startTime: 2020-11-08T04:58:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
