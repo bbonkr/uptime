@@ -1,7 +1,7 @@
 url: https://bbon.kr
-status: up
-code: 200
-responseTime: 2491
-lastUpdated: 2026-01-01T23:23:13.828Z
+status: down
+code: 500
+responseTime: 1273
+lastUpdated: 2026-01-02T06:54:58.146Z
 startTime: 2020-11-08T04:58:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
