@@ -4,17 +4,17 @@
     "url": "https://bbon.kr",
     "icon": "https://icons.duckduckgo.com/ip3/bbon.kr.ico",
     "slug": "bbon-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.08%",
-    "time": 4062,
-    "timeDay": 1842,
-    "timeWeek": 2224,
-    "timeMonth": 2478,
-    "timeYear": 4066,
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.07%",
+    "time": 4061,
+    "timeDay": 2799,
+    "timeWeek": 2416,
+    "timeMonth": 2519,
+    "timeYear": 4065,
     "dailyMinutesDown": {
       "2025-08-16": 148,
       "2025-08-27": 104,
@@ -50,7 +50,8 @@
       "2026-02-17": 66,
       "2026-02-20": 44,
       "2026-03-04": 35,
-      "2026-03-27": 201
+      "2026-03-27": 201,
+      "2026-08-15": 20
     }
   },
   {
